@@ -1,0 +1,16 @@
+This project will be a profile to share with your peers and display in your portfolio, so follow these recommendations to make it look awesome.
+
+Create or choose an image that best represents you for the main profile image. Here are a few suggestions:
+
+A headshot or illustration of you
+A photo of a pet
+A photo of where your live
+Create or choose a second larger image for the background of your profile header. Here are some suggestions:
+
+A photo of your city
+A photo of your workstation
+A pattern you designed
+Be aware of file size: Keep the profile image under 400 KB and the background image under 1 MB (see the link in the project resources section to Picresize, an online image resizing tool).
+
+Once you've set up the project, feel free to explore the project files, get familiar with the code and see many of the concepts you've learned being used in a real-world project. 
+As you learn new concepts, take a moment to think about some of the ways you could use what you learned in your project.
